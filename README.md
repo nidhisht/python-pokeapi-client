@@ -1,6 +1,5 @@
 # python-pokeapi-client
-This program uses a pre-built [Pokémon API](https://pokeapi.co/) to retrieve Pokémon information.
-
+This is a sample program that uses the pre-built [Pokémon API](https://pokeapi.co/) to fetch Pokémon information.
 
 ## Install Python Libraries in Visual Studio Code
 It involves two steps:  
