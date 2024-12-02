@@ -1,7 +1,10 @@
 # python-pokeapi-client
 
 
-# How to install Python Libraries in Visual Studio Code?
+# Install Python Libraries in Visual Studio Code
+It can be done in 2 steps:
+1) Create virtual environment
+2) Install the library
 
 
 ## How to fix "ModuleNotFoundError: No module named 'requests'"
@@ -11,7 +14,7 @@ Open Terminal in visual studio code and navigate to the project path. Then follo
 ### 1. Create Virtual Environment
 Run following command:
 
-'python -m venv C:\Github\python-pokeapi-client\venv'
+'python -m venv .\venv'
 
 ### 2. Install the library
 Run following command:
