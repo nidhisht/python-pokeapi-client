@@ -11,9 +11,9 @@ It involves two steps:
 Open Terminal in visual studio code and navigate to the project path. Then follow below instructions.
 
 #### 1. Create Virtual Environment
-Run following command:
+Run the command:
 `python -m venv .\venv`
 
 #### 2. Install the library
-Run following command:
+Run the command:
 `pip install requests`
